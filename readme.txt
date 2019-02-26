@@ -21,7 +21,7 @@ If you wish to build the plugin yourself, see the "Building" section hereunder.
 == Frequently Asked Questions ==
 
 == Screenshots ==
-No screenshots yet.
+1. Screenshot of the two latest posts rendered on the site.
 
 == Changelog ==
 = 1.0 =
