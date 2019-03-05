@@ -5,7 +5,7 @@
  * Description: Klarity latest posts block
  * Author: Klarity
  * Author URI: https://github.com/Klarityorg
- * Version: 1.0.2
+ * Version: 1.0.3
  * License: MIT
  *
  * @package Klarity
