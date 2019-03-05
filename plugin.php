@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Klarity latest posts block
- * Plugin URI: https://github.com/Klarityorg/wp-plugin-latest-posts
+ * Plugin URI: https://github.com/Klarityorg/wp-plugin-latest-posts-block
  * Description: Klarity latest posts block
  * Author: Klarity
  * Author URI: https://github.com/Klarityorg
- * Version: 1.0.3
+ * Version: 1.0.4
  * License: MIT
  *
  * @package Klarity
