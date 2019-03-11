@@ -4,7 +4,7 @@ Tags: latest, posts, block, gutenberg
 Requires at least: 5.0.0
 Tested up to: 5.0.3
 Requires PHP: 7.2.0
-Stable tag: 1.0.4
+Stable tag: 1.1.0
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 
@@ -24,7 +24,7 @@ If you wish to build the plugin yourself, see the "Building" section hereunder.
 1. Screenshot of the two latest posts rendered on the site.
 
 == Changelog ==
-= 1.0 =
+= 1.1.0 =
 * Initial release
 
 == Building ==
